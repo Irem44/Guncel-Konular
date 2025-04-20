@@ -1,3 +1,6 @@
+
+### KELİME DEDEKTİFİ
+
 ✈️ Çocuklar İçin Uçak İçi AR Oyun Projesi
 
 Bu proje, uçak yolculuğu sırasında çocuklara eğlenceli ve eğitici bir deneyim sunmayı amaçlayan artırılmış gerçeklik (AR) tabanlı bir mobil oyundur. Oyunda çocuklar farklı zorluk seviyelerinde kelimeyi bulmak için ekranda toprağı kazıp harfleri keşfederler. Doğru sırayla harfleri yerleştirdiklerinde "Tebrikler!" mesajı alırlar.
