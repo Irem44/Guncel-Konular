@@ -59,7 +59,7 @@ Projeyi kendi cihazınızda çalıştırmak için şu adımları takip edebilirs
 
 1. **Projeyi klonlayın**
    ```bash
-   git clone https://github.com/kullanici-adi/kelime-dedektifi.git
+   https://github.com/Irem44/Guncel-Konular.git
    cd kelime-dedektifi
 
 
