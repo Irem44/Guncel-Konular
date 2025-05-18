@@ -77,3 +77,10 @@ Projeyi kendi cihazınızda çalıştırmak için şu adımları takip edebilirs
 ### 4. Uygulamayı Başlatın
    
     npx expo start
+
+
+## 📺 Proje Tanıtım Videosu
+
+Projenin nasıl çalıştığını görmek için YouTube videosunu izleyebilirsiniz:
+
+🔗 https://youtu.be/0lcMg-OkBU8
