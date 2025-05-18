@@ -1,0 +1,24 @@
+{
+  "words": [
+    { "word": "cat", "translation": "Kedi" },
+    { "word": "dog", "translation": "Köpek" },
+    { "word": "pig", "translation": "Domuz" },
+    { "word": "cow", "translation": "İnek" },
+    { "word": "ant", "translation": "Karınca" },
+    { "word": "bee", "translation": "Arı" },
+    { "word": "rat", "translation": "Fare" },
+    { "word": "owl", "translation": "Baykuş" },
+    { "word": "hen", "translation": "Tavuk" },
+    { "word": "fox", "translation": "Tilki" },
+    { "word": "bat", "translation": "Yarasa" },
+    { "word": "bug", "translation": "Böcek" },
+    { "word": "sun", "translation": "Güneş" },
+    { "word": "pea", "translation": "Bezelye" },
+    { "word": "fig", "translation": "İncir" },
+    { "word": "jam", "translation": "Reçel" },
+    { "word": "mud", "translation": "Çamur" },
+    { "word": "pan", "translation": "Tava" },
+    { "word": "log", "translation": "Odun" },
+    { "word": "pot", "translation": "Saksı" }
+  ]
+}

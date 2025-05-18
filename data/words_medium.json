@@ -1,0 +1,23 @@
+{
+  "words": [
+    { "word": "bat", "translation": "Yarasa" },
+    { "word": "rat", "translation": "Fare" },
+    { "word": "fox", "translation": "Tilki" },
+    { "word": "hen", "translation": "Tavuk" },
+    { "word": "cow", "translation": "İnek" },
+    { "word": "pig", "translation": "Domuz" },
+    { "word": "ant", "translation": "Karınca" },
+    { "word": "bee", "translation": "Arı" },
+    { "word": "owl", "translation": "Baykuş" },
+    { "word": "nut", "translation": "Kuruyemiş" },
+    { "word": "log", "translation": "Odun" },
+    { "word": "pot", "translation": "Saksı" },
+    { "word": "fig", "translation": "İncir" },
+    { "word": "jam", "translation": "Reçel" },
+    { "word": "pea", "translation": "Bezelye" },
+    { "word": "sun", "translation": "Güneş" },
+    { "word": "mud", "translation": "Çamur" },
+    { "word": "sap", "translation": "Ağaç özü" },
+    { "word": "bud", "translation": "Tomurcuk" }
+  ]
+}

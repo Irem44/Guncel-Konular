@@ -1,0 +1,24 @@
+{
+  "words": [
+    { "word": "elk", "translation": "Geyik türü" },
+    { "word": "ram", "translation": "Koç" },
+    { "word": "hog", "translation": "Yaban domuzu" },
+    { "word": "ivy", "translation": "Sarmaşık" },
+    { "word": "oak", "translation": "Meşe" },
+    { "word": "elm", "translation": "Karaağaç" },
+    { "word": "bud", "translation": "Tomurcuk" },
+    { "word": "roe", "translation": "Karaca" },
+    { "word": "pit", "translation": "Çekirdek" },
+    { "word": "yam", "translation": "Tatlı patates" },
+    { "word": "nut", "translation": "Kuruyemiş" },
+    { "word": "fig", "translation": "İncir" },
+    { "word": "pea", "translation": "Bezelye" },
+    { "word": "sun", "translation": "Güneş" },
+    { "word": "pod", "translation": "Bakla" },
+    { "word": "sap", "translation": "Ağaç özü" },
+    { "word": "log", "translation": "Odun" },
+    { "word": "jar", "translation": "Kavanoz" },
+    { "word": "bin", "translation": "Çöp kutusu" },
+    { "word": "hay", "translation": "Saman" }
+  ]
+}
